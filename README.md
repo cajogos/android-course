@@ -4,7 +4,26 @@ Welcome! This is a small repository I am using the save the programs and files c
 
 ## Sections
 
-* **Section 1:** Introduction :white_check_mark:
-* **Section 2:** Downloading and Setup :white_check_mark:
-* **Section 3:** Hello World Android App :white_check_mark:
- * Created app: [HelloWorld](HelloWorld)
+* :white_check_mark: **Section 1:** Introduction
+  * _Completed on:_ 25th February 2017
+* :white_check_mark: **Section 2:** Downloading and Setup
+  * _Completed on:_ 25th February 2017
+* :white_check_mark: **Section 3:** Hello World Android App
+  * _Completed on:_ 25th February 2017
+  * _Created Apps:_
+    * [HelloWorld](HelloWorld): The simplest app you can create that literally only displays a bit of text on an empty Activity.
+* :x: **Section 4:** The Button Counter App
+* :x: **Section 5:** Java Tutorials
+* :x: **Section 6:** Calculator App
+* :x: **Section 7:** Top 10 Downloaded App
+* :x: **Section 8:** YouTube App
+* :x: **Section 9:** Flickr App
+* :x: **Section 10:** Databases and the Friends App
+
+## Thanks to Tim
+
+Would like to thank Tim for the awesome courses he has on Udemy, I was also on his old Android course and found it a shame I did not manage to complete it either, this time I am willing to complete his new course which he is still working on.
+
+## Copyright and Attribution
+
+This repository is mostly being used as a way for me to track my application development and uploading it here to share reference for anyone else doing this course. I sometimes heavily modify the code to avoid clashing with Tim's material. You should definitely [check out his course and buy it on Udemy](https://www.udemy.com/master-android-7-nougat-java-app-development-step-by-step/learn/v4/overview), if you think it's too expensive I recommend you waiting for whenever there is a sale, as his courses seem to always be picked up.
