@@ -4,5 +4,7 @@ Welcome! This is a small repository I am using the save the programs and files c
 
 ## Sections
 
-* Section 1: Introduction :white_check_mark:
-* 
+* **Section 1:** Introduction :white_check_mark:
+* **Section 2:** Downloading and Setup :white_check_mark:
+* **Section 3:** Hello World Android App :white_check_mark:
+ * Created app: [HelloWorld](HelloWorld)
