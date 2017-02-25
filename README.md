@@ -13,12 +13,17 @@ Welcome! This is a small repository I am using the save the programs and files c
   * _Created Apps:_
     * [HelloWorld](HelloWorld): The simplest app you can create that literally only displays a bit of text on an empty Activity.
 * :x: **Section 4:** The Button Counter App
+  * _Created Apps:_
+    * [Playing](Playing): A simple app that was created when playing around with Android Studio 2.2.* designer.
 * :x: **Section 5:** Java Tutorials
 * :x: **Section 6:** Calculator App
 * :x: **Section 7:** Top 10 Downloaded App
 * :x: **Section 8:** YouTube App
 * :x: **Section 9:** Flickr App
 * :x: **Section 10:** Databases and the Friends App
+
+:white_check_mark: = complete
+:x: = incomplete
 
 ## Thanks to Tim
 
