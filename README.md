@@ -12,7 +12,8 @@ Welcome! This is a small repository I am using the save the programs and files c
   * _Completed on:_ 25th February 2017
   * _Created Apps:_
     * [HelloWorld](HelloWorld): The simplest app you can create that literally only displays a bit of text on an empty Activity.
-* :x: **Section 4:** The Button Counter App
+* :white_check_mark: **Section 4:** The Button Counter App
+  * _Completed on:_ 26th February 2017
   * _Created Apps:_
     * [Playing](Playing): A simple app that was created when playing around with Android Studio 2.2.* designer.
     * [ButtonClickCounter](ButtonClickCounter): An app to introduce click listeners, logging and debugging.
