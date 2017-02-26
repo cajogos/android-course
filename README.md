@@ -15,6 +15,7 @@ Welcome! This is a small repository I am using the save the programs and files c
 * :x: **Section 4:** The Button Counter App
   * _Created Apps:_
     * [Playing](Playing): A simple app that was created when playing around with Android Studio 2.2.* designer.
+    * [ButtonClickCounter](ButtonClickCounter): An app to introduce click listeners, logging and debugging.
 * :x: **Section 5:** Java Tutorials
 * :x: **Section 6:** Calculator App
 * :x: **Section 7:** Top 10 Downloaded App
