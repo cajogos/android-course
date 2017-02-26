@@ -17,7 +17,9 @@ Welcome! This is a small repository I am using the save the programs and files c
   * _Created Apps:_
     * [Playing](Playing): A simple app that was created when playing around with Android Studio 2.2.* designer.
     * [ButtonClickCounter](ButtonClickCounter): An app to introduce click listeners, logging and debugging.
-* :x: **Section 5:** Java Tutorials
+* :white_check_mark: **Section 5:** Java Tutorials
+  * I was already pretty confident with my Java skills so I spent this section by simply fast-forwarding through the videos. No code was written, however in the course you are encouraged to write some code.
+  * _Completed on:_ 26th February 2017
 * :x: **Section 6:** Calculator App
 * :x: **Section 7:** Top 10 Downloaded App
 * :x: **Section 8:** YouTube App
